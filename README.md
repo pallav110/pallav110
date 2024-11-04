@@ -9,7 +9,7 @@
 - 👀 **Interests:** Deep Learning, Sentiment Analysis, Speech Emotion Recognition, and building impactful AI models.
 - 🌱 **Currently Learning:** Advanced NLP with Transformer models, system architectures for real-time emotion recognition, and enhanced data visualization techniques.
 - 💞️ **Looking to Collaborate on:** Projects that involve complex machine learning challenges, especially in the areas of audio and video processing, sentiment analysis, and recommendation systems. I enjoy working with teams who are as excited about AI as I am!
-- 📫 **How to Reach Me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pallav-sharma/) or drop an email at pallav.sharma@example.com.
+- 📫 **How to Reach Me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pallav-sharma/) or drop an email at pallavs2020@gmail.com.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I'm merging my passion for music and AI to explore how songs influence emotional well-being!
 
