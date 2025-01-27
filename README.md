@@ -17,7 +17,6 @@
 ### 🔗 **Connect with Me**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pallav110)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
 
 ---
 
@@ -44,7 +43,6 @@
 
 - **Voice Emotion Recognition System:** Developing a robust model to analyze speech and detect emotions accurately.
 - **Sentiment Analysis in Music Therapy:** Mapping emotions to musical features to recommend songs that enhance emotional well-being.
-- **Flutter Apps:** Creating dynamic mobile applications with a focus on user-friendly design and seamless functionality.
 
 ---
 
