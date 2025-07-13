@@ -351,6 +351,7 @@ fun_facts:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
 </div>
 
+<img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/footer.png" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+create+something+amazing+together!;Building+the+future+of+emotional+AI" alt="Footer Message" />
