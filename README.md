@@ -284,8 +284,9 @@ class CurrentProjects:
 ## 🎵 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=8ixs685fc14ed0ugvx61dfj46&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/spotify.jpg" width="70%" alt="Now Playing: Lose My Mind - Don Toliver ft. Doja Cat" />
 </div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
