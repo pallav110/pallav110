@@ -63,6 +63,14 @@ class PallavSharma:
   <img src="https://img.shields.io/github/stars/pallav110?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallav110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallav110&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pallav110&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=1" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pallav110&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&cache_seconds=1" alt="Activity Graph" />
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallav110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallav110&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
