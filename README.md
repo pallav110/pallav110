@@ -1,227 +1,337 @@
-<h1 align="center">Pallav Sharma</h1>
-<h3 align="center">AI Researcher | Machine Learning Engineer | Full-Stack Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pallav%20Sharma&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20|%20Machine%20Learning%20Engineer%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50" />
+</div>
 
-<img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/banner.png" width="100%" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F7CAC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Emotional+AI+Systems;Transforming+Human-Computer+Interaction;Creating+the+Future+of+Technology" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pallav-sharma-3a474727b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:pallavs2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/pallav110"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=pallav110&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 🌟 About Me
 
-## 🚀 About Me
+<img align="right" alt="AI Animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-> *"At the intersection of AI and human emotion, we find the future of technology."*
+```python
+class PallavSharma:
+    def __init__(self):
+        self.name = "Pallav Sharma"
+        self.title = "AI Researcher & ML Engineer"
+        self.location = "Delhi, India 🇮🇳"
+        self.passion = "Building emotional intelligence into AI systems"
+        self.vision = "At the intersection of AI and human emotion, we find the future of technology"
+        
+    def current_focus(self):
+        return {
+            "🎯 Primary": "Advanced emotion recognition systems",
+            "🎵 Secondary": "Music-based therapeutic applications", 
+            "🔬 Research": "Transformer architectures & federated learning",
+            "☁️ Infrastructure": "Cloud-native ML deployments"
+        }
+        
+    def expertise(self):
+        return [
+            "🧠 Natural Language Processing",
+            "🎭 Emotion AI & Affective Computing", 
+            "🗣️ Speech Emotion Recognition",
+            "💬 Sentiment Analysis",
+            "🌐 Full-Stack Development"
+        ]
+```
 
-🚀 Passionate about building **emotional intelligence into AI systems**  
-🎧 Working at the intersection of **machine learning**, **audio analysis**, and **human emotion**  
-🛠️ Creating **real-time tools** using **Python, TypeScript, and modern AI frameworks**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
+## 🚀 Quick Stats & Connections
 
-- 🔭 **I'm currently working on** advanced emotion recognition systems and music-based therapeutic applications
-- 🌱 **I'm currently learning** transformer architectures, federated learning, and cloud-native ML deployments
-- 👯 **I'm looking to collaborate on** projects related to affective computing and emotional AI
-- 🤔 **I'm looking for help with** scaling ML models for production environments
-- 💬 **Ask me about** NLP, emotion AI, sentiment analysis, or full-stack development
+<div align="center">
+  <a href="https://www.linkedin.com/in/pallav-sharma-3a474727b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pallavs2020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/pallav110">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/PallavAI">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
-## 💼 Experience & Education
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pallav110&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pallav110?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/pallav110?label=Stars&style=social" alt="GitHub Stars" />
+</div>
+
+## 💼 Professional Journey
+
+<div align="center">
 
 ```mermaid
 timeline
-    title My Journey in AI & Development
-    2020 : Started Learning Python & ML Fundamentals
-    2021 : First NLP Project
-         : Began Flutter Development
-    2022 : Advanced to Deep Learning
-         : Sentiment Analysis Research
-    2023 : Speech Emotion Recognition Projects
-         : Full-Stack Integration of ML Models
-    2024 : Current Focus on Transformer Models
-         : Real-time Emotion Recognition Systems
+    title My AI & Development Journey
+    
+    section Early Foundation
+    2020 : Started Python & ML Fundamentals
+         : Built first classification models
+         : Explored data science ecosystem
+         
+    section Skill Development  
+    2021 : First NLP Project 📝
+         : Began Flutter Development 📱
+         : Sentiment analysis experiments
+         
+    section Deep Learning Era
+    2022 : Advanced to Deep Learning 🧠
+         : Speech processing research
+         : Neural network architectures
+         
+    section Production Focus
+    2023 : Speech Emotion Recognition 🗣️
+         : Full-Stack ML Integration
+         : Real-time system development
+         
+    section Current Innovation
+    2024 : Transformer Models 🤖
+         : Federated Learning Research
+         : Production ML Systems
+         
+    section Future Vision
+    2025 : Emotional AI Framework 💡
+         : Open Source Contributions
+         : Research Publications
 ```
 
-## 🛠️ Tech Stack
+</div>
 
-<details>
-<summary>Click to expand</summary>
+## 🛠️ Technology Arsenal
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,javascript,typescript,react,nodejs,flutter,dart,docker,kubernetes,git,github,vscode,jupyter,mongodb,firebase,gcp,aws" />
+</div>
 
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-8A4F7D?style=for-the-badge&logo=librosa&logoColor=white)
+### 🧠 AI & Machine Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Librosa-8A4F7D?style=for-the-badge&logo=librosa&logoColor=white" />
+</div>
 
-### Web & Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Development Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### ☁️ Cloud & DevOps
+<div align="center">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</div>
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-</details>
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallav110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallav110&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pallav110&show_icons=true&theme=radical" alt="Pallav's GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallav110&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallav110&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallav110&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Activity Graph" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallav110&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 🏆 Achievements & Recognition
 
-## 🔥 Featured Projects
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pallav110&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Voice Emotion Recognition System</h3>
-      <p align="center">
-        <a href="https://github.com/pallav110/voice-emotion" target="_blank">
-          <img src="https://api.placeholder/400/200" width="400" alt="Project Image"/>
-        </a>
-        <p align="center">
-          A deep learning system that analyzes speech patterns to detect emotions with 89% accuracy using custom LSTM architecture and MEL spectrogram features.
-        </p>
-        <p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pallav110&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Wakatime Stats" />
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎭 Voice Emotion Recognition System</h3>
+        <div align="center">
           <a href="https://github.com/pallav110/voice-emotion" target="_blank">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=pallav110&repo=voice-emotion&theme=tokyonight&hide_border=true&bg_color=0d1117" />
           </a>
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Sentiment Analysis in Music Therapy</h3>
-      <p align="center">
-        <a href="https://github.com/pallav110/music-sentiment" target="_blank">
-          <img src="https://api.placeholder/400/200" width="400" alt="Project Image"/>
-        </a>
+        </div>
         <p align="center">
-          An innovative application that maps emotions to musical features and recommends songs to enhance emotional well-being based on mood detection.
+          <strong>🎯 89% Accuracy</strong> • Deep learning system analyzing speech patterns using custom LSTM architecture and MEL spectrogram features
         </p>
-        <p align="center">
+        <div align="center">
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/Librosa-8A4F7D?style=flat-square&logo=librosa&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎵 Music Therapy AI</h3>
+        <div align="center">
           <a href="https://github.com/pallav110/music-sentiment" target="_blank">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=pallav110&repo=music-sentiment&theme=tokyonight&hide_border=true&bg_color=0d1117" />
           </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-          </a>
+        </div>
+        <p align="center">
+          <strong>🎶 65% Stress Reduction</strong> • Innovative app mapping emotions to musical features for enhanced well-being
         </p>
-      </p>
-    </td>
-  </tr>
-</table>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 📝 Latest Blog Posts
+## 💼 Current Work & Focus
 
-<!-- BLOG-POST-LIST:START -->
-- [Transforming Emotion Recognition with Transformer Models](https://github.com/pallav110)
-- [The Future of Affective Computing in Human-Computer Interaction](https://github.com/pallav110)
-- [Implementing Real-time Speech Emotion Recognition Systems](https://github.com/pallav110)
-- [Flutter and ML: Creating Cross-platform AI Applications](https://github.com/pallav110)
-<!-- BLOG-POST-LIST:END -->
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=pallav110&theme=react-dark" alt="Contribution Graph" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pallav110&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-## 🎵 Currently Listening To
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" alt="Spotify" />
-</p>
-
-## 💼 What I'm Currently Working On
+<div align="center">
 
 ```python
-class Pallav:
+class CurrentProjects:
     def __init__(self):
-        self.name = "Pallav Sharma"
-        self.role = "AI Engineer & Researcher"
-        self.languages = ["Python", "JavaScript", "Dart"]
-        
-    def current_projects(self):
-        return {
-            "Voice Emotion Recognition": {
-                "status": "80% complete",
-                "tech": ["PyTorch", "Librosa", "Flask"],
-                "goal": "Create a production-ready API for emotion detection in speech"
+        self.projects = {
+            "🎭 Voice Emotion Recognition": {
+                "progress": "80%",
+                "tech_stack": ["PyTorch", "Librosa", "FastAPI", "Docker"],
+                "goal": "Production-ready API for real-time emotion detection",
+                "impact": "Healthcare & Customer Service Applications"
             },
-            "Music Therapy App": {
-                "status": "60% complete",
-                "tech": ["Flutter", "TensorFlow Lite", "Firebase"],
-                "goal": "Launch beta version by Q3 2025"
+            "🎵 Music Therapy Platform": {
+                "progress": "60%", 
+                "tech_stack": ["Flutter", "TensorFlow Lite", "Firebase", "Spotify API"],
+                "goal": "Beta launch Q3 2025",
+                "impact": "Mental health support through personalized music"
             },
-            "NLP Research": {
-                "status": "Ongoing",
-                "focus": "Emotion detection in multilingual text",
-                "goal": "Publish findings in a research journal"
+            "🔬 Multilingual NLP Research": {
+                "progress": "Ongoing",
+                "focus": "Emotion detection across languages",
+                "collaboration": "Academic institutions",
+                "goal": "Research publication in top-tier journal"
             }
         }
         
-    def future_goals(self):
+    def research_interests(self):
         return [
-            "Contribute to open-source AI projects",
-            "Develop a comprehensive emotion AI framework",
-            "Build a community around affective computing"
+            "🧠 Transformer architectures for emotion understanding",
+            "🌐 Federated learning for privacy-preserving AI",
+            "🎯 Real-time affective computing systems",
+            "🎨 Multimodal emotion recognition (text, speech, visual)"
         ]
-
-me = Pallav()
 ```
 
-## 📫 How to Reach Me
+</div>
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+## 📝 Latest Content & Research
 
-- 📧 **Email:** pallavs2020@gmail.com
-- 💼 **LinkedIn:** [Pallav Sharma](https://www.linkedin.com/in/pallav-sharma-3a474727b/)
-- 🐦 **Twitter:** [@PallavAI](https://twitter.com/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pallav110&repo=blog-posts&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
 
-## ⚡ Fun Fact
+📚 **Recent Publications & Blog Posts:**
+- 🤖 [Transforming Emotion Recognition with Transformer Models](https://github.com/pallav110)
+- 🔮 [The Future of Affective Computing in Human-Computer Interaction](https://github.com/pallav110)
+- ⚡ [Implementing Real-time Speech Emotion Recognition Systems](https://github.com/pallav110)
+- 📱 [Flutter and ML: Creating Cross-platform AI Applications](https://github.com/pallav110)
 
-I'm developing an algorithm that identifies the emotional progression in music compositions and creates personalized playlists that can guide listeners from one emotional state to another. My research has shown that properly sequenced music can reduce stress by up to 65% in test subjects!
+## 🎵 Currently Listening To
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=3&unique=true" alt="Spotify Recently Played" />
+</div>
+
+## 🌟 Let's Connect & Collaborate!
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Always+open+to+interesting+conversations;Looking+for+collaboration+opportunities;Let's+build+the+future+of+AI+together!" alt="Connect Message" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:pallavs2020@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+          <br><strong>Email Me</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/pallav-sharma-3a474727b/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          <br><strong>Connect on LinkedIn</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/PallavAI">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+          <br><strong>Follow on Twitter</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## ⚡ Fun Facts & Interests
+
+<div align="center">
+
+```yaml
+fun_facts:
+  🎵 passion_project: "Emotional progression algorithm for music therapy"
+  🧠 research_achievement: "65% stress reduction through personalized playlists"
+  🎯 daily_routine: "Code, Music, Research, Repeat"
+  🌟 philosophy: "Technology should enhance human emotions, not replace them"
+  🎨 hobbies: ["Music Production", "AI Art", "Psychology Books", "Open Source"]
+  ☕ fuel: "Coffee and curiosity about human emotions"
+```
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+create+something+amazing+together!;Building+the+future+of+emotional+AI" alt="Footer Message" />
+</div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/footer.png" width="100%" />
-
-<p align="center">
-  <i>Thanks for visiting my profile! Let's create something amazing together!</i>
-</p>
+<div align="center">
+  <i>✨ "At the intersection of AI and human emotion, we find the future of technology." ✨</i>
+</div>
