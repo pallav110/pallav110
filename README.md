@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&height=50&color=00ffff,ff00ff,5b0eeb&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=egg&height=50&color=#99ccfff,ff00ff,5b0eeb&animation=twinkling" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/banner.png" width="100%" />
