@@ -284,7 +284,7 @@ class CurrentProjects:
 ## 🎵 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=8ixs685fc14ed0ugvx61dfj46&count=3&unique=true" alt="Spotify Recently Played" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=8ixs685fc14ed0ugvx61dfj46&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
 </div>
 
 <div align="center">
