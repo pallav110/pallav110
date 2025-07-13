@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=#3366ff,#3333ff,#3333ff&animation=fadeIn" />
   <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/banner.png" width="100%" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F7CAC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+AI+Systems;Creating+the+Future+of+Technology;Working+with+music+,+typescript" alt="Typing SVG" />
@@ -347,9 +343,6 @@ fun_facts:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
-</div>
 
 <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/footer.png" width="100%" />
 
