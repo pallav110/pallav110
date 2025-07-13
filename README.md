@@ -170,10 +170,6 @@ timeline
   <img src="https://github-profile-trophy.vercel.app/?username=pallav110&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@pallav110&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
-
 ## 🚀 Featured Projects
 
 <div align="center">
