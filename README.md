@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontSize=50&animation=fadeIn&fontAlignY=35&descAlignY=51&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Pallav%20Sharma&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20FullStack%20Dev%20%7C%20Open%20Source&descSize=20&descAlign=50&descAlignY=60&color=0f0c29,302b63,24243e&animation=fadeIn" />
   <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/banner.png" width="100%" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F7CAC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+AI+Systems;Creating+the+Future+of+Technology;Working+with+music+,+typescript" alt="Typing SVG" />
 </div>
