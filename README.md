@@ -1,10 +1,6 @@
-<h1 align="center">Pallav Sharma</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pallav%20Sharma&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20|%20Machine%20Learning%20Engineer%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50" />
 <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/banner.png" width="100%" />
 
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pallav%20Sharma&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20|%20Machine%20Learning%20Engineer%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F7CAC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+AI+Systems;Creating+the+Future+of+Technology;Working+with+music+,+typescript" alt="Typing SVG" />
@@ -68,19 +64,6 @@ class PallavSharma:
 
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pallav110&show_icons=true&theme=radical" alt="Pallav's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallav110&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallav110&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pallav110&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/pallav110?label=Followers&style=social" alt="GitHub Followers" />
