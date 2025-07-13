@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=1f005c,5b0eeb,00d9ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=5b0eeb,00d9ff,1f005c&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=1f005c,5b0eeb,00d9ff&animation=fadeIn" />
+  <br><br>
   <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/banner.png" width="100%" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F7CAC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+AI+Systems;Creating+the+Future+of+Technology;Working+with+music+,+typescript" alt="Typing SVG" />
 </div>
