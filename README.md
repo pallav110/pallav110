@@ -284,7 +284,7 @@ class CurrentProjects:
 ## 🎵 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=_XPython&count=3&unique=true" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=8ixs685fc14ed0ugvx61dfj46&count=3&unique=true" alt="Spotify Recently Played" />
 </div>
 
 <div align="center">
