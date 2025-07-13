@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=#3366ff,#3333ff,#3333ff&animation=fadeIn" />
   <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/banner.png" width="100%" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F7CAC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+AI+Systems;Creating+the+Future+of+Technology;Working+with+music+,+typescript" alt="Typing SVG" />
 </div>
