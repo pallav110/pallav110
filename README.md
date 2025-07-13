@@ -284,7 +284,7 @@ class CurrentProjects:
 ## 🎵 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=3&unique=true" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=_XPython&count=3&unique=true" alt="Spotify Recently Played" />
 </div>
 
 <div align="center">
@@ -350,9 +350,6 @@ fun_facts:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+create+something+amazing+together!;Building+the+future+of+emotional+AI" alt="Footer Message" />
