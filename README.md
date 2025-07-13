@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pallav%20Sharma&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20|%20Machine%20Learning%20Engineer%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pallav%20Sharma&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </div>
 
-<img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/banner.png" width="100%" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/banner.png" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F7CAC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+AI+Systems;Creating+the+Future+of+Technology;Working+with+music+,+typescript" alt="Typing SVG" />
