@@ -1,9 +1,8 @@
 <h1 align="center">Pallav Sharma</h1>
 <h3 align="center">AI Researcher | Machine Learning Engineer | Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://api.placeholder/800/200" alt="banner" width="800" height="200"/>
-</p>
+<img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/banner.png" width="100%" />
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pallav-sharma-3a474727b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -16,7 +15,10 @@
 
 > *"At the intersection of AI and human emotion, we find the future of technology."*
 
-I'm an AI enthusiast and machine learning engineer passionate about creating technologies that understand human emotions and enhance our daily experiences. My work focuses on bridging the gap between artificial intelligence and emotional intelligence, particularly through speech and sentiment analysis.
+🚀 Passionate about building **emotional intelligence into AI systems**  
+🎧 Working at the intersection of **machine learning**, **audio analysis**, and **human emotion**  
+🛠️ Creating **real-time tools** using **Python, TypeScript, and modern AI frameworks**
+
 
 - 🔭 **I'm currently working on** advanced emotion recognition systems and music-based therapeutic applications
 - 🌱 **I'm currently learning** transformer architectures, federated learning, and cloud-native ML deployments
