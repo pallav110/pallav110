@@ -220,9 +220,7 @@ I'm developing an algorithm that identifies the emotional progression in music c
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/footer.png" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/footer.png" width="100%" />
 
 <p align="center">
   <i>Thanks for visiting my profile! Let's create something amazing together!</i>
