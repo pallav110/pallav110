@@ -46,14 +46,12 @@ class PallavSharma:
 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Analytics
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pallav110&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/pallav110?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/pallav110?label=Stars&style=social" alt="GitHub Stars" />
 </div>
-
-## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallav110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -67,6 +65,7 @@ class PallavSharma:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallav110&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Activity Graph" />
 </div>
+
 
 ## 🚀 Connections
 
