@@ -221,7 +221,7 @@ I'm developing an algorithm that identifies the emotional progression in music c
 ---
 
 <p align="center">
-  <img src="https://api.placeholder/800/100" alt="footer" width="800" height="100"/>
+  <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/footer.png" width="100%" />
 </p>
 
 <p align="center">
