@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&height=50&color=#3366ff,#00ffff,5b0eeb&animation=blinking" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=1f005c,5b0eeb,00d9ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=1f005c,#660066,00d9ff&animation=fadeIn" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/banner.png" width="100%" />
