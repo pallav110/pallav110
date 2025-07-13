@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pallav%20Sharma&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20|%20Machine%20Learning%20Engineer%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pallav%20Sharma&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20|%20Machine%20Learning%20Engineer%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50" />
+</div>
+
 <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/banner.png" width="100%" />
 
 
