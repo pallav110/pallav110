@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=50&color=00d9ff,5b0eeb,ff00ff&animation=blinking" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=1f005c,5b0eeb,00d9ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=egg&height=50&color=00ffff,ff00ff,5b0eeb&animation=twinkling" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/pallav110/pallav110/main/assets/banner.png" width="100%" />
