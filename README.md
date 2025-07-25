@@ -21,7 +21,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="AI Animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="up" alt="AI Animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```python
 class PallavSharma:
