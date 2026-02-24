@@ -1,6 +1,3 @@
-<!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pallav%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Researcher%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Emotion%20AI&descAlignY=55&descSize=18&animation=fadeIn"/>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
